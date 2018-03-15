@@ -1,3 +1,4 @@
 *.DS_Store
 python-course
 *.ipynb_checkpoints
+*.zip
